@@ -9,6 +9,7 @@ const roles = [
     isActived: true,
   },
   {
+    
     name: 'vendedor',
     description: 'Vendedor',
     menu: [],
